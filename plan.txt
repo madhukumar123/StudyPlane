@@ -1,0 +1,34 @@
+PROGRAMMING
+1. Python Programming
+2. Data structure and algorithms in python
+3. Data handling using Numpy
+4. python pandas
+5. Plotting Graphs
+6. File handling
+7. Interface python with MySQL
+
+MACHINE LEARNING
+1. Introduction to Machine Learning
+2. Preparing to Model
+3. Modelling and evaluation
+4. Basics of feature engineering
+5. Brief Overview of probability
+6. Baysian concept learning
+7. Supervised Learning: Classification
+8. Supervised Learning: Regression
+9. Unsupervised Learning
+10. Reinforcement Learning
+11. Basics of Neural Network
+12. Other types of learning
+13. End to End ML Implementation
+14. Generative AI & LLM
+
+DEEP LEARNING
+1. Deep Feedforward Network
+2. Regularization for Deep Learning
+3. Optimization for Training Deep Models
+4. Convolutional Networks
+5. Sequence Modeling: Recurrent and Recursive Nets
+6. Practical Methods
+7. Applications
+
