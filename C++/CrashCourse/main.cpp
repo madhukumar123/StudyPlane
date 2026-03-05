@@ -12,7 +12,7 @@ using namespace std;
 
 int main() {
     cout << "Hello world";
-	cout<<fun(2, 3);
+	cout << fun(2, 3);
 	return 0;
 }
 
