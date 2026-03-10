@@ -6,14 +6,18 @@
  * Date : 5 Mar 2026 
  **************************************************************/
 #include "functions.h"
+#include "fundamentals.h"
 #include <iostream>
 
 using namespace std;
 
 int main() {
-    cout << "Hello world";
-	cout << fun(2, 3);
+    sizeofInteger();
+	sizeofFloat();
+	sizeofChar();
+	characterLiterals();
+	booleantype();
+	logicalOperators();
+
 	return 0;
 }
-
-
