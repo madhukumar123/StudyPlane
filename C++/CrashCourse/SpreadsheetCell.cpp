@@ -28,5 +28,10 @@ SpreadsheetCell::SpreadsheetCell(const SpreadsheetCell& src):mValue(src.mValue)
 
 SpreadsheetCell& SpreadsheetCell::operator=(const SpreadsheetCell& rhs)
 {
+    
+}
 
+void SpreadsheetCell::print_private()
+{
+    std::cout << sp.m_private_var << std::endl;
 }
