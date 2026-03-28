@@ -11,6 +11,7 @@ class Spreadsheet
     friend class SpreadsheetCell;
     void init_private_var(int var);
     void printout();
+    ~Spreadsheet();
 
     private:
     int m_private_var;

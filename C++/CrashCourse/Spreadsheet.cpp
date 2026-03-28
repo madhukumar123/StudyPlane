@@ -9,3 +9,8 @@ void Spreadsheet::init_private_var(int var)
 {
     m_private_var = var;
 }
+
+Spreadsheet::~Spreadsheet()
+{
+    
+}
